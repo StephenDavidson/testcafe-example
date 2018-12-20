@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/StephenDavidson/testcafe-example#readme",
   "dependencies": {
-    "testcafe": "^0.19.2"
+    "testcafe": "^0.23.3"
   }
 }

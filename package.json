@@ -1,0 +1,28 @@
+{
+  "name": "testcafe-example",
+  "version": "1.0.0",
+  "description": "Example of using test cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/",
+    "test:parallel": "testcafe -c 2 chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenDavidson/testcafe-example.git"
+  },
+  "keywords": [
+    "testcafe",
+    "e2e",
+    "node"
+  ],
+  "author": "Stephen Davidson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenDavidson/testcafe-example/issues"
+  },
+  "homepage": "https://github.com/StephenDavidson/testcafe-example#readme",
+  "dependencies": {
+    "testcafe": "^0.19.2"
+  }
+}
